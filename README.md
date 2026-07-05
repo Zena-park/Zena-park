@@ -1,4 +1,4 @@
-# Zena Park
+# Zena
 
 **Blockchain Protocol Engineer — Smart Contracts · Zero-Knowledge · L2**
 
