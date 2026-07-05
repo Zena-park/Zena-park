@@ -41,5 +41,5 @@ privacy-preserving settlement systems.
 - Designed and operate a multi-agent AI code-review pipeline — every PR reviewed by
   layered AI reviewers with mandatory feedback-resolution commits. Foundation for
   5,600+ commits / 1,000+ merged PRs in H1 2026 as a single engineer.
-- Guest lecturer (blockchain), Korea University
+- Lecturer, Korea University — taught smart contract development (blockchain course)
 - GitHub: Starstruck · Pull Shark x3
