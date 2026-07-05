@@ -36,8 +36,6 @@ privacy-preserving settlement systems.
 `Solidity` `Foundry` `TypeScript` `Rust` `Java (JavaCard)` `SP1 zkVM` `Groth16 / circom`
 `EIP-712` `Uniswap V3/V4` `OP-stack` `React` `Node.js` `Docker` `GCP / AWS`
 
-Currently deep-diving **Uniswap V4** (hooks, flash accounting, transient storage).
-
 ## Also
 
 - Designed and operate a multi-agent AI code-review pipeline — every PR reviewed by
