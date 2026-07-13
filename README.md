@@ -28,7 +28,7 @@ privacy-preserving settlement systems.
 - [**TONStarter**](https://github.com/tokamak-network/tonstarter-contracts) — IDO launchpad in production (2021–22): sale/staking/reward contracts, vesting vault factory
 - [**Rollup metadata registry**](https://github.com/tokamak-network/tokamak-rollup-metadata-repository) + [checker](https://github.com/tokamak-network/tokamak-rollup-metadata-checker) — L2 registration standard used across the ecosystem
 - [**DAO governance stack**](https://github.com/tokamak-network/dao-community-version) — original DAO contracts/backend (2020) and the 2025 community rebuild
-- [**Tokamon Go**](https://github.com/tokamak-network/tokamon) (2026) — location-based TON reward service: contracts + web + iOS + listener server · live → **[tokamon.io](https://tokamon.io)**
+- [**Tokamon Go**](https://github.com/Zena-park/tokamon) (2026) — location-based TON reward service: contracts + web + iOS + listener server · live → **[tokamon.io](https://tokamon.io)**
 - Full Uniswap V3 stack fork & integration on an optimistic rollup (contracts, smart order router, interface, analytics)
 
 ## Stack
