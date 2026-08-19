@@ -10,6 +10,13 @@ privacy-preserving settlement systems.
 
 ## Selected Work
 
+### Recent (2026)
+
+- [**token-kit**](https://github.com/Zena-park/token-kit) — modular kit for ERC-20 tokens
+  with controlled issuance, following Circle's FiatToken: byte-identical EIP-3009 type
+  hashes (x402 clients work unchanged), plus a timelock and Guardian veto on issuance
+  authority and on upgrades · Apache-2.0 · 103 Foundry tests incl. symbolic
+
 ### Zero-Knowledge (2026)
 
 | Project | What it is | Scale |
