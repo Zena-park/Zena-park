@@ -16,7 +16,7 @@ Now building open-source infrastructure for stablecoin payments.
 | | What | Status |
 |---|---|---|
 | [**token-kit**](https://github.com/Zena-park/token-kit) | Modular ERC-20 issuance kit following Circle's FiatToken: byte-identical EIP-3009 type hashes (x402 clients work unchanged), timelock + Guardian veto on issuance authority and upgrades | Apache-2.0 · 103 Foundry tests incl. symbolic (Halmos) |
-| **x402-kit** | [x402](https://www.x402.org) payments for HTTP APIs: one-line seller middleware, capped buyer `fetch` wrapper, self-hostable facilitator. Any EIP-3009 token directly, any ERC-20 via Permit2; EOA / ERC-1271 / ERC-6492 signers; open-amount (`upto`) payments | TypeScript · 193 unit tests + on-chain e2e · publishing soon |
+| [**x402-kit**](https://github.com/Zena-park/x402-kit) | [x402](https://www.x402.org) payments for HTTP APIs: one-line seller middleware, capped buyer `fetch` wrapper, self-hostable facilitator. Any EIP-3009 token directly, any ERC-20 via Permit2; EOA / ERC-1271 / ERC-6492 signers; open-amount (`upto`) payments | Apache-2.0 · TypeScript · 193 unit tests + on-chain e2e |
 
 Design notes I care about in this work: issuance authority that can be vetoed, spending
 caps enforced by construction on the payer side, spec-exact wire compatibility, and
